@@ -1,0 +1,28 @@
+# Bỏ qua tất cả các file mặc định
+*.xml
+*.lic
+*.application
+*.config
+*.manifest
+*.pdb
+# Bỏ qua tất cả file .dll (để đảm bảo các .dll không mong muốn bị loại)
+*.dll
+*DataBase/*
+# Giữ lại các file .dll cụ thể
+!avcodec-57.dll
+!avdevice-57.dll
+!avfilter-6.dll
+!avformat-57.dll
+!avutil-55.dll
+!postproc-54.dll
+!swresample-2.dll
+!swscale-4.dll
+
+# Nhưng giữ lại các file và .exe
+!*.exe
+
+# giữ lại folder images
+
+media/*
+
+

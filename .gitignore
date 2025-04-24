@@ -17,6 +17,7 @@
 !postproc-54.dll
 !swresample-2.dll
 !swscale-4.dll
+!DebugMessage.dll
 
 # Nhưng giữ lại các file và .exe
 !*.exe

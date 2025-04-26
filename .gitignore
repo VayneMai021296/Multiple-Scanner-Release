@@ -25,5 +25,6 @@
 # giữ lại folder images
 
 media/*
+*.info
 
 

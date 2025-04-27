@@ -33,7 +33,9 @@ git clone https://github.com/VayneMai021296/Multiple-Scanner-Release.git
 ```
 <img src="images/terminal.jpg" alt="Screenshot" width="auto" height="auto"><br>
 
-###   Sau đó bạn nhấn 2 lần chuột trái vào file Scanner.exe (Có hình là mã QR) như hình vẽ dưới đây để chạy ứng dụng 
+###   Sau đó bạn nhấn 2 lần chuột trái vào file MultiScanner.exe (Có hình là mã máy quét Barcode đang quét mã) như hình vẽ dưới đây để chạy ứng dụng 
+
+
 ```CSS
 -Multiple-Scanner-Release
     |- .gitignore
@@ -42,6 +44,8 @@ git clone https://github.com/VayneMai021296/Multiple-Scanner-Release.git
     |- LICENSE
     |- LICENSE.lic
 ```
+<img src="images/startApp.jpg" alt="Screenshot" width="auto" height="auto"><br>
+
 <img src="images/multiScanner.jpg" alt="Screenshot" width="auto" height="auto"><br>
 
 
